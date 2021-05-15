@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Vision (Published for Submission 2)",
+    "slug": "majorassignment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "description": "My application is called Vision. It aims to provide the user with a broad yet simplified guide to various features in a particular city. These features include restaurants, places to sightsee and accommodation, although, this may expand in the future development of the app. "
+  }
+}
